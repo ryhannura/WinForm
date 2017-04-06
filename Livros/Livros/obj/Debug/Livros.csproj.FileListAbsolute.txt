@@ -1,0 +1,13 @@
+C:\git\WinForm\Livros\Livros\bin\Debug\Livros.exe.config
+C:\git\WinForm\Livros\Livros\bin\Debug\Livros.exe
+C:\git\WinForm\Livros\Livros\bin\Debug\Livros.pdb
+C:\git\WinForm\Livros\Livros\bin\Debug\EntityFramework.dll
+C:\git\WinForm\Livros\Livros\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\WinForm\Livros\Livros\bin\Debug\EntityFramework.xml
+C:\git\WinForm\Livros\Livros\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\WinForm\Livros\Livros\obj\Debug\Livros.csprojResolveAssemblyReference.cache
+C:\git\WinForm\Livros\Livros\obj\Debug\Livros.Form1.resources
+C:\git\WinForm\Livros\Livros\obj\Debug\Livros.Properties.Resources.resources
+C:\git\WinForm\Livros\Livros\obj\Debug\Livros.csproj.GenerateResource.Cache
+C:\git\WinForm\Livros\Livros\obj\Debug\Livros.exe
+C:\git\WinForm\Livros\Livros\obj\Debug\Livros.pdb
